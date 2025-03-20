@@ -88,6 +88,7 @@ Microsoftが開発している**Visual Studio Code（VScode）と**いうエデ�
 <!-- index.html -->
 
 Hello! RareTECH!
+HELLO! RARETECH!
 
 ```
 
@@ -97,8 +98,7 @@ Hello! RareTECH!
 VScodeで (ctl + @) を押すとターミナルを開けます。
 
 ターミナルで以下のコマンドを実行します。
-
-1. **ファイルをステージング**: 次のコマンドですべてのファイルをステージングします。
+1
     
     ```bash
     git add .
